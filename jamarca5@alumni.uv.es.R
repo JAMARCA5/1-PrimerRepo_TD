@@ -1,2 +1,2 @@
-Nombre: Javier
-Apellidos: Marzo Caballero
+Nombre<-"Javier"
+Apellidos<-"Marzo Caballero"
